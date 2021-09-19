@@ -6,12 +6,8 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
-        System.out.println("hello git project");
-        System.out.println("hello git project");
-        System.out.println("hello git project");
-        System.out.println("hello git project");
-        System.out.println("hello git project");
-        System.out.println("hello git project");
+        int a=10;
+		System.out.println(a);
     }
 
     public void test(){
